@@ -4,6 +4,7 @@ const App = () => {
 
   const handleClick = (event) =>{
     // use console.log
+    console.log(event.currentTarget.id);
 
   }
 
